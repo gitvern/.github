@@ -27,8 +27,8 @@
 - More statistics and improve dashboard UX/UI
 - ...
 
-## Sponsors needed
+## Sponsors welcome
 
 If you use gitvern and are happy with it, please consider donating!
 
-Find out how [here](http://gitvern.org/donate).
+We have a Sponsor button on any of our repositories. Thank you.
