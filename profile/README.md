@@ -4,7 +4,7 @@
 
 ### Gitvern your DAO:
 
-- Built with :heart:   by Developers for Developers
+- Built with :heart: &nbsp; by Developers for Developers
 - Host your DAO dashboard on GitHub pages on your organization
 - Run a Github App on some of the project leaders computers or organization servers
 - Allow your token holders to approve and that way prioritize your GitHub issues by just making a MetaMask signature
