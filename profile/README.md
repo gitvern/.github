@@ -18,7 +18,7 @@
 
 - [Documentation](https://github.com/gitvern/docs)
 - [Repositories](https://github.com/orgs/gitvern/repositories)
-- Demo
+- Demo (soon...)
   
 ### Future works:
 
