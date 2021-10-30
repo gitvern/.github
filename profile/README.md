@@ -10,7 +10,7 @@
 - Allow your token holders to approve and that way prioritize your GitHub issues by just making a MetaMask signature
 - Use the same GitHub workflow that you are already familiar to assign issues to developers and attribute weights (labels)
 - Dev Treasury smart-contract (on any EVM network) will hold the treasury funds and lock a slice for the issue assignee when work starts based on issue weight
-- When an issue is closed successfully, the respective funds are unlocked and can be claimed by the assignee on the dashboard
+- When an issue is closed successfully, the respective funds are unlocked and sent to the assignee wallet address in his profile
 - At project launch, you can enable transfers for your token, setup a UniSwap Liquidity Pool and change approval to LP weight, to incentivize liquidity building
 - DAO Governance made simple and effective
 
