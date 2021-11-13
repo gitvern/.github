@@ -16,9 +16,13 @@
 
 ### Further info:
 
+- [Demo Video](https://youtu.be/rYhTbFJisD0)
+
+[![Gitvern Demo Video](https://img.youtube.com/vi/rYhTbFJisD0/0.jpg)](https://www.youtube.com/watch?v=rYhTbFJisD0)
+
 - [Documentation](https://github.com/gitvern/docs)
 - [Repositories](https://github.com/orgs/gitvern/repositories)
-- Demo (soon...)
+
   
 ### Future works:
 
