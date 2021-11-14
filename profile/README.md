@@ -2,17 +2,21 @@
 
 ## DAO Governance based on GitHub
 
+We are building DAO Governance integrated with the normal GitHub workflow. This means implementing DAO Governance for early stage projects in minutes, not weeks! 👍
+
+Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept in action...
+
 ### Gitvern your DAO:
 
 - Built with :heart: &nbsp;by Developers for Developers
-- Host your DAO dashboard on GitHub pages on your organization
+- Host your DAO voting dashboard on GitHub pages on your organization, or on decentralized storage like IPFS
 - Run a Github App on any project leader's or organization's servers (GitHub and Dev Treasury keys are held here, so keep secure)
 - Allow your token holders to approve and that way prioritize your GitHub issues by just making a MetaMask signature
-- Use the same GitHub workflow that you are already familiar to assign issues to developers and attribute weights (labels)
-- Dev Treasury smart-contract (on any EVM network) will hold the treasury funds and lock a slice for the issue assignee when work starts based on issue weight
+- Use the same GitHub workflow that you are already familiar to assign issues to developers and attribute weights
+- Dev Treasury smart-contract (on any EVM network) will hold the treasury budget funds and lock a slice for the issue assignee when work starts based on issue weight
 - When an issue is closed successfully, the respective funds are unlocked and sent to the assignee wallet address in his profile
-- At project launch, you can enable transfers for your token, setup a UniSwap Liquidity Pool and change approval to LP weight, to incentivize liquidity building
-- DAO Governance made simple and effective
+- At project launch, you can enable transfers for your token, setup a UniSwap Liquidity Pool and change approval weight to LP tokens, to incentivize liquidity building (we also include sample contracts for Liquidity Building Auctions, an idea for token launch dutch auction of liquidity pool positions, if anyone wants to experiment with that)
+- DAO Governance made simple, effective and without complications!
 
 ### Further info:
 
