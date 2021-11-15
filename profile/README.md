@@ -27,6 +27,11 @@ Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept
 - [Documentation](https://github.com/gitvern/docs)
 - [Repositories](https://github.com/orgs/gitvern/repositories)
 
+### For DAO Global Hackathon working on:
+
+- Polish the PoC contracts code for treasury and add full unit tests suite
+- Add a customisable approval dashboard that integrates with Metamask and signs GitHub issue with approval account, and sends signature to GitHub App for validation and approval accounting on that specific issue, as shown on the video
+- Polish the documentation and create relevant how-to's
   
 ### Future works:
 
