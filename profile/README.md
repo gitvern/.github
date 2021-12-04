@@ -2,16 +2,15 @@
 
 ## DAO Governance based on GitHub
 
-We are building DAO Governance integrated with the normal GitHub workflow. This means implementing DAO Governance for early stage projects in minutes, not weeks! 👍
+We are building DAO Governance integrated with the normal GitHub workflow, using [Snapshot.org](https://snapshot.org) as voting dashboard. This means implementing DAO Governance for early stage projects in minutes, not weeks! 👍
 
 Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept in action...
 
 ### Gitvern your DAO:
 
 - Built with :heart: &nbsp;by Developers for Developers
-- Host your DAO voting dashboard on GitHub pages on your organization, or on decentralized storage like IPFS
+- Host your DAO voting dashboard on [Snapshot.org](https://snapshot.org) and receive voting approvals right on your GitHub issue Projects board
 - Run a Github App on any project leader's or organization's servers (GitHub and Dev Treasury keys are held here, so keep secure)
-- Allow your token holders to approve and that way prioritize your GitHub issues by just making a MetaMask signature
 - Use the same GitHub workflow that you are already familiar to assign issues to developers and attribute weights
 - Dev Treasury smart-contract (on any EVM network) will hold the treasury budget funds and lock a slice for the issue assignee when work starts based on issue weight
 - When an issue is closed successfully, the respective funds are unlocked and sent to the assignee wallet address in his profile
@@ -30,7 +29,7 @@ Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept
 ### For DAO Global Hackathon working on:
 
 - Polish the PoC contracts code for treasury and add full unit tests suite
-- Add a customisable approval dashboard that integrates with Metamask and signs GitHub issue with approval account, and sends signature to GitHub App for validation and approval accounting on that specific issue, as shown on the video
+- Integrate with [Snapshot.org](https://snapshot.org) for voting dashboard, populating approvals into GitHub issue in Project board, through the GitHub App for validation and approval accounting on that specific issue, as shown on the video
 - Polish the documentation and create relevant how-to's
   
 ### Future works:
@@ -38,8 +37,8 @@ Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept
 - Hardening and test suites
 - Refactoring for production and complete documentation
 - Optional Multisig approval for extra security
-- More statistics and improve dashboard UX/UI
-- ...
+- Maintenance
+- New features...
 
 ## Sponsors welcome
 
