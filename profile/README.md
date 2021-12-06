@@ -28,9 +28,9 @@ Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept
 
 ### For DAO Global Hackathon working on:
 
-- Polish the PoC contracts code for treasury and add full unit tests suite
-- Integrate with [Snapshot.org](https://snapshot.org) for voting dashboard, populating approvals into GitHub issue in Project board, through the GitHub App for validation and approval accounting on that specific issue, as shown on the video
-- Polish the documentation and create relevant how-to's
+- [x] Polish the PoC contracts code for treasury and add full unit tests suite
+- [ ] Integrate with [Snapshot.org](https://snapshot.org) for voting dashboard, populating approvals into GitHub issue in Project board, through the GitHub App for validation and approval accounting on that specific issue, as shown on the video
+- [ ] Polish the documentation and create relevant how-to's
   
 ### Future works:
 
