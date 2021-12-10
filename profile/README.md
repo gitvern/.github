@@ -4,7 +4,7 @@
 
 We are building DAO Governance integrated with the normal GitHub workflow, using [Snapshot.org](https://snapshot.org) as voting dashboard. This means implementing DAO Governance for early stage projects in minutes, not weeks! 👍
 
-Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept in action...
+Check the [Demo Video](https://youtu.be/vWGBp3vGX4c) to see the Proof of Concept in action...
 
 ### Gitvern your DAO:
 
@@ -19,18 +19,18 @@ Check the [Demo Video](https://youtu.be/rYhTbFJisD0) to see the Proof of Concept
 
 ### Further info:
 
-- [Demo Video](https://youtu.be/rYhTbFJisD0)
+- [Demo Video](https://youtu.be/vWGBp3vGX4c)
 
-[![Gitvern Demo Video](https://img.youtube.com/vi/rYhTbFJisD0/0.jpg)](https://www.youtube.com/watch?v=rYhTbFJisD0)
+[![Gitvern Demo Video](https://img.youtube.com/vi/vWGBp3vGX4c/0.jpg)](https://www.youtube.com/watch?v=vWGBp3vGX4c)
 
 - [Documentation](https://github.com/gitvern/docs)
 - [Repositories](https://github.com/orgs/gitvern/repositories)
 
-### For DAO Global Hackathon working on:
+### For DAO Global Hackathon worked on:
 
 - [x] Polish the PoC contracts code for treasury and add full unit tests suite
-- [ ] Integrate with [Snapshot.org](https://snapshot.org) for voting dashboard, populating approvals into GitHub issue in Project board, through the GitHub App for validation and approval accounting on that specific issue, as shown on the video
-- [ ] Polish the documentation and create relevant how-to's
+- [x] Integrate with [Snapshot.org](https://snapshot.org) for voting dashboard, populating approvals into GitHub issue in Project board, through the GitHub App for validation and approval accounting on that specific issue, as shown on the video
+- [x] Polish the documentation and create relevant how-to's
   
 ### Future works:
 
