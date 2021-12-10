@@ -34,7 +34,7 @@ Check the [Demo Video](https://youtu.be/vWGBp3vGX4c) to see the Proof of Concept
 
 **DAO Global Hackathon submission video**: https://youtu.be/1ioscC3dPoY
 
-This project started before the DAO Global Hackathon, but all relevant repositories have a release `0.0.1-PoC` to mark the state of the project at the start of the hackathon. All other commits were the result of the work for this hackathon, that started on Nov 13th, and produced in the features described above.
+This project started before the DAO Global Hackathon, but all relevant repositories have a release `0.0.1-PoC` to mark the state of the project at the start of the hackathon. All other commits were the result of the work for this hackathon, that started on Nov 13th, and produced the features described above.
 
 For information on how to build and setup, please check the [documentation](https://github.com/gitvern/docs).
 
